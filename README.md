@@ -16,7 +16,7 @@ Welcome to the repository for the book [Cybersecurity Simplified : A Guide for B
 8. [Community](#community)
 
 ## About the Book
-<a href="https://arcchieonline.com/books"><img src="/resources/9788197419065_Thumbnail.jpg" height="300px" align="right"></a>
+<a href="https://arcchieonline.com/books"><img src="/resources/cybersecurity_thumbnail.jpg" height="300px" align="right"></a>
 The world of cybersecurity is vast and ever evolving, with new threats emerging every day. "Cybersecurity Simplified" is a comprehensive guide designed for students, freshers, and enthusiastic professionals who aspire to build a career in this critical field. This book begins with the basics, providing a historical context and explaining why cybersecurity is essential in the modern digital age. It delves into the various types of cyber threats, the fundamental principles of cybersecurity, and the importance of protecting networks, applications, and data. The role of artificial intelligence in enhancing cybersecurity measures is explored, alongside future trends and innovative solutions. The final chapter offers a hands-on project, giving readers practical experience with implementing a cybersecurity solution using Python or another preferred programming language. By the end of this book, readers will have a solid foundation in cybersecurity concepts and practices, ready to embark on a rewarding career in this dynamic field.
 
 ## Repository Contents
